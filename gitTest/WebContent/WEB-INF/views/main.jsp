@@ -9,6 +9,7 @@
 <body>
 	<h1 style="test-align: center;">Git Test Page</h1>
 	<div class="w3-col">
+		<div class="w3-col"></div>
 	</div>
 </body>
 </html>
